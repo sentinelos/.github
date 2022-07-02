@@ -1,5 +1,7 @@
 # Sentinel OS 👋
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sentinelos/pkgs)](https://github.com/sentinelos/pkgs/releases)
+
 ## Small
 
 Sentinel OS is built around musl libc and busybox based on the Alpine linux. This makes it small and very resource efficient. A container requires no more than 8 MB and a minimal installation to disk requires around 130 MB of storage. Not only do you get a fully-fledged Linux environment but a large selection of packages from the repository.
